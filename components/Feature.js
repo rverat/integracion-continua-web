@@ -5,10 +5,10 @@ import getScrollAnimation from "../utils/getScrollAnimation";
 import ScrollAnimationWrapper from "./Layout/ScrollAnimationWrapper";
 
 const features = [
-  "Powerfull online protection.",
-  "Internet without borders.",
-  "Supercharged VPN",
-  "No specific time limits."
+  "Java desde básico hasta nivel héroe.",
+  "Programación Reactiva con Java.",
+  "Desarrollo de microservicios siguiendo los estándares de CLEAN CODE",
+  "Despliegue de microservicios en entornos cloud Azure y AWS."
 ]
 
 const Feature = () => {
@@ -36,11 +36,10 @@ const Feature = () => {
 
         <motion.div className="flex flex-col items-end justify-center ml-auto w-full lg:w-9/12" variants={scrollAnimation}>
           <h3 className="text-3xl lg:text-4xl font-medium leading-relaxed text-black-600">
-            We Provide Many Features You Can Use
+            Tenemos los cursos del más alto nivel
           </h3>
           <p className="my-2 text-black-500">
-            You can explore the features that we provide with fun and have their
-            own functions each feature.
+            Puedes explorar y provar nuestros cursos gratuitos.
           </p>
           <ul className="text-black-500 self-start list-inside ml-8">
             {features.map((feature, index) => (

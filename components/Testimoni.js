@@ -10,40 +10,40 @@ import ArrowNext from "../public/assets/Icon/eva_arrow-next-fill.svg";
 const Testimoni = ({
   listTestimoni = [
     {
-      name: "iezh Robert",
-      image: "/assets/people-3.png",
-      city: "Warsaw",
-      country: "Poland",
-      rating: "4.5",
+      name: "Erick Alexander",
+      image: "/assets/people-1.png",
+      city: "Lima",
+      country: "Perú",
+      rating: "4.7",
       testimoni:
-        "Wow... I am very happy to use this VPN, it turned out to be more than my expectations and so far there have been no problems. LaslesVPN always the best",
+        "Vaya... Estoy muy feliz de llevar el curso de programación reactiva, resultó ser más de lo que esperaba! estoy muy agradecido.",
     },
     {
-      name: "iezh Robert",
+      name: "Daniel Villa",
       image: "/assets/people-3.png",
-      city: "Warsaw",
-      country: "Poland",
-      rating: "4.5",
+      city: "Ciudad de México",
+      country: "México",
+      rating: "4.9",
       testimoni:
-        "Wow... I am very happy to use this VPN, it turned out to be more than my expectations and so far there have been no problems. LaslesVPN always the best",
+        "¡Me encantó el curso de programación reactiva! Superó mis expectativas por completo. Estoy muy agradecido por la oportunidad de aprender de un instructor tan experimentado y apasionado.",
     },
     {
-      name: "iezh Robert",
-      image: "/assets/people-3.png",
-      city: "Warsaw",
-      country: "Poland",
+      name: "Mariela Sanchez",
+      image: "/assets/people-2.png",
+      city: "Santiago",
+      country: "Chile",
       rating: "4.5",
       testimoni:
-        "Wow... I am very happy to use this VPN, it turned out to be more than my expectations and so far there have been no problems. LaslesVPN always the best",
+        "El curso de programación reactiva ha sido una experiencia increíble. He aprendido mucho y estoy emocionado de aplicar mis nuevos conocimientos en mis proyectos. ¡Muchas gracias!",
     },
     {
-      name: "iezh Robert",
+      name: "Victor Romero",
       image: "/assets/people-3.png",
-      city: "Warsaw",
-      country: "Poland",
+      city: "Buenos Aires",
+      country: "Argentina",
       rating: "4.5",
       testimoni:
-        "Wow... I am very happy to use this VPN, it turned out to be more than my expectations and so far there have been no problems. LaslesVPN always the best",
+        "¡El curso de programación reactiva me ha cambiado la vida! Ahora puedo crear aplicaciones web más eficientes y receptivas. ¡Muchas gracias!",
     },
   ],
 }) => {
